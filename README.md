@@ -1,2 +1,4 @@
-# Repositório do Desafio de Projeto sobre Git / GitHub
-Desafio de Projeto sobre Git / GitHub
+# Repositório dos Desafios de Projetos - DIO
+
+1. Desafio de Projeto - Git / GitHub
+2. Desafio de Projeto - CSS
